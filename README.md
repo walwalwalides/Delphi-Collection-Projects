@@ -19,7 +19,7 @@
 | .gitignore | Git ignores the Files in this File |
 |[WinDownly](https://github.com/walwalwalides/WinDownly)| WinDownly is a Software that deliver a easy method to wirelessly transfer files between your Android device and your Desktop |
 |[GAlertService](https://github.com/walwalwalides/GAlertService)| GAlertService is a Software Solution for Creating a Windows Service Monitor Using Email |
-|[Meeting4](https://github.com/walwalwalides/Meeting4)| Meeting4 is a Android App for Management team appointments |
+|[Meeting4](https://github.com/walwalwalides/Meeting4)| Schedule a Meeting in Teams |
 | README.md | The Readme for this Project
 
 ------
