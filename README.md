@@ -23,7 +23,11 @@
 | README.md | The Readme for this Project
 
 ------
-In this Collection contain different self made projects,if you have any suggestion or idee.You can text me or Email : walwalwalides@gmail.com
+In this Collection contain different self made projects.
+This projects are based on different fields like (client server ,windows service,task scheduler...)
+As always, if you have any ideas or suggestions that would make projects more interesting and useful for you and anyone interested, please let me know. 
+You can reach me under email : walwalwalides@gmail.com,
+or just text me.
 You are welcome to join and participate to improve any choosed project.
 
 # If You Want To Donate!
