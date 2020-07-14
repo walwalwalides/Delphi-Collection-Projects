@@ -23,7 +23,8 @@
 | README.md | The Readme for this Project
 
 ------
-u found here ,Different self made projects,if u have a suggestion to better
+In this Collection contain different self made projects,if you have any suggestion or idee.You can text me or Email : walwalwalides@gmail.com
+You are welcome to join and participate to improve any choosed project.
 
 # If You Want To Donate!
 
