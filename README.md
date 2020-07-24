@@ -14,7 +14,7 @@
 
 ## Contains
 
-| File | Contents | 
+| Project | Description | 
 | --- | --- |
 | .gitignore | Git ignores the Files in this File |
 |[WinDownly](https://github.com/walwalwalides/WinDownly)| WinDownly is a Software that deliver a easy method to wirelessly transfer files between your Android device and your Desktop |
