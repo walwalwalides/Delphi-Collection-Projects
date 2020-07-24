@@ -29,7 +29,7 @@ This projects are based on different fields like (client server ,windows service
 
 - As always, if you have any ideas or suggestions that would make projects more interesting and useful for you and anyone interested,Please let me know. 
 
-You can reach me under email : walwalwalides@gmail.com ,or just text me.
+- You can reach me under email : walwalwalides@gmail.com ,or just text me.
 
 - You are welcome to join and participate to improve any choosed project.
 
