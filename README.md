@@ -1,6 +1,10 @@
 # Delphi-Collection-Projects
-- My Own Delphi-Collection-Projects
-![](Delphi-Collection.jpg)
+> My Own Delphi-Collection-Projects
+
+<p align="center">
+  <img src=Delphi-Collection.jpg />
+</p> 
+
 **Authors:**  *WalWalWalides*
 ------
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
